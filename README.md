@@ -28,4 +28,7 @@ In addition to the code, the repo also contains a copy of the training manual th
 
 Due to privacy restrictions we are not able to post the reviews dataset publicly. However, there is an open data API for getting EV charging infrastructure information (Open Charge Map).
 
+#Codebook
+It is a codebook for labeling task. Codebook_ev_project.pdf provides rules for annotation and examples of reviews per label.
+
 For any other clarifications on the steps for replication, feel free to get in touch with us at sameerdharur@gatech.edu or asensio@gatech.edu.
